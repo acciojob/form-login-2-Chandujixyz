@@ -11,6 +11,6 @@ function event(e) {
     var phone = document.getElementById("phone").value;
     var email = document.getElementById("email").value;
 
-    alert('First Name: ' + first + '\nLast Name: ' + last + '\nPhone Number: ' + phone + '\nEmail ID: ' + email);
+    alert('First Name: ' + first + 'Last Name: ' + last + 'Phone Number: ' + phone + 'Email ID: ' + email);
 }
 
